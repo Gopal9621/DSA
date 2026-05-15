@@ -5,11 +5,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gopal9621/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
 | [3903-smallest-stable-index-i](https://github.com/Gopal9621/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gopal9621/DSA/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
 ## Greedy
 |  |
 | ------- |
@@ -22,4 +24,8 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gopal9621/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
