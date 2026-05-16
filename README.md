@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Gopal9621/DSA/tree/master/0593-valid-square) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/Gopal9621/DSA/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
