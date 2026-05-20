@@ -52,4 +52,12 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Gopal9621/DSA/tree/master/0222-count-complete-tree-nodes) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Gopal9621/DSA/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Gopal9621/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
