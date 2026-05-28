@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gopal9621/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
+| [0665-non-decreasing-array](https://github.com/Gopal9621/DSA/tree/master/0665-non-decreasing-array) |
 | [0896-monotonic-array](https://github.com/Gopal9621/DSA/tree/master/0896-monotonic-array) |
 | [3903-smallest-stable-index-i](https://github.com/Gopal9621/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
