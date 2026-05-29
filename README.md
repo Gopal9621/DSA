@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gopal9621/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
+| [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
 | [0665-non-decreasing-array](https://github.com/Gopal9621/DSA/tree/master/0665-non-decreasing-array) |
 | [0896-monotonic-array](https://github.com/Gopal9621/DSA/tree/master/0896-monotonic-array) |
 | [3903-smallest-stable-index-i](https://github.com/Gopal9621/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gopal9621/DSA/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -30,6 +32,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
+| [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
 ## Math
 |  |
 | ------- |
@@ -62,4 +65,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Gopal9621/DSA/tree/master/0796-rotate-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
