@@ -63,6 +63,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Gopal9621/DSA/tree/master/0796-rotate-string) |
+| [3110-score-of-a-string](https://github.com/Gopal9621/DSA/tree/master/3110-score-of-a-string) |
 ## String Matching
 |  |
 | ------- |
