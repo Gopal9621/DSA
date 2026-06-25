@@ -9,6 +9,7 @@
 | [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
 | [0665-non-decreasing-array](https://github.com/Gopal9621/DSA/tree/master/0665-non-decreasing-array) |
 | [0896-monotonic-array](https://github.com/Gopal9621/DSA/tree/master/0896-monotonic-array) |
+| [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
 | [3903-smallest-stable-index-i](https://github.com/Gopal9621/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
 | [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,4 +83,24 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
