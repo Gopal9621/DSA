@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gopal9621/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gopal9621/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
 | [0665-non-decreasing-array](https://github.com/Gopal9621/DSA/tree/master/0665-non-decreasing-array) |
 | [0896-monotonic-array](https://github.com/Gopal9621/DSA/tree/master/0896-monotonic-array) |
@@ -47,6 +48,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gopal9621/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Gopal9621/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
 |  |
