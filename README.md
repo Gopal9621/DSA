@@ -57,10 +57,12 @@
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Gopal9621/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0222-count-complete-tree-nodes](https://github.com/Gopal9621/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## String
 |  |
@@ -105,4 +107,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
