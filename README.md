@@ -11,6 +11,7 @@
 | [0665-non-decreasing-array](https://github.com/Gopal9621/DSA/tree/master/0665-non-decreasing-array) |
 | [0896-monotonic-array](https://github.com/Gopal9621/DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gopal9621/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Gopal9621/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -26,6 +27,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Gopal9621/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Gopal9621/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Linked List
 |  |
@@ -50,6 +52,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gopal9621/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Gopal9621/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [1004-max-consecutive-ones-iii](https://github.com/Gopal9621/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -141,4 +144,8 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Gopal9621/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
