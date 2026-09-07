@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Gopal9621/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Gopal9621/DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Gopal9621/DSA/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gopal9621/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gopal9621/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Gopal9621/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Gopal9621/DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Gopal9621/DSA/tree/master/0051-n-queens) |
 | [0257-binary-tree-paths](https://github.com/Gopal9621/DSA/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
@@ -181,4 +183,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gopal9621/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Gopal9621/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
