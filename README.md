@@ -16,6 +16,7 @@
 | [0896-monotonic-array](https://github.com/Gopal9621/DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gopal9621/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Gopal9621/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [3903-smallest-stable-index-i](https://github.com/Gopal9621/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
@@ -187,4 +188,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Gopal9621/DSA/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Gopal9621/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
