@@ -15,6 +15,7 @@
 | [0665-non-decreasing-array](https://github.com/Gopal9621/DSA/tree/master/0665-non-decreasing-array) |
 | [0896-monotonic-array](https://github.com/Gopal9621/DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
+| [0994-rotting-oranges](https://github.com/Gopal9621/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gopal9621/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Gopal9621/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [3903-smallest-stable-index-i](https://github.com/Gopal9621/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -156,6 +157,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Gopal9621/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Gopal9621/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -191,5 +193,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Gopal9621/DSA/tree/master/0994-rotting-oranges) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Gopal9621/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
