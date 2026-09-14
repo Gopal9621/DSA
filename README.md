@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/Gopal9621/DSA/tree/master/0593-valid-square) |
 ## Geometry
 |  |
@@ -113,6 +114,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
@@ -197,4 +199,12 @@
 | ------- |
 | [0994-rotting-oranges](https://github.com/Gopal9621/DSA/tree/master/0994-rotting-oranges) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Gopal9621/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
