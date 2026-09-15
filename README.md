@@ -14,6 +14,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gopal9621/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
 | [0665-non-decreasing-array](https://github.com/Gopal9621/DSA/tree/master/0665-non-decreasing-array) |
+| [0740-delete-and-earn](https://github.com/Gopal9621/DSA/tree/master/0740-delete-and-earn) |
 | [0896-monotonic-array](https://github.com/Gopal9621/DSA/tree/master/0896-monotonic-array) |
 | [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
 | [0994-rotting-oranges](https://github.com/Gopal9621/DSA/tree/master/0994-rotting-oranges) |
@@ -116,6 +117,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0740-delete-and-earn](https://github.com/Gopal9621/DSA/tree/master/0740-delete-and-earn) |
 ## Stack
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gopal9621/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gopal9621/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0740-delete-and-earn](https://github.com/Gopal9621/DSA/tree/master/0740-delete-and-earn) |
 ## Algorithm X
 |  |
 | ------- |
