@@ -150,6 +150,7 @@
 | [0100-same-tree](https://github.com/Gopal9621/DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Gopal9621/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Gopal9621/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Gopal9621/DSA/tree/master/0257-binary-tree-paths) |
@@ -162,6 +163,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Gopal9621/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Gopal9621/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Gopal9621/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0226-invert-binary-tree) |
 | [0802-find-eventual-safe-states](https://github.com/Gopal9621/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Gopal9621/DSA/tree/master/0994-rotting-oranges) |
@@ -215,10 +217,12 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Gopal9621/DSA/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Gopal9621/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Gopal9621/DSA/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/Gopal9621/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Kosaraju's Algorithm
 |  |
@@ -228,4 +232,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Gopal9621/DSA/tree/master/0802-find-eventual-safe-states) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Gopal9621/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
