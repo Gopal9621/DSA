@@ -11,6 +11,7 @@
 | [0051-n-queens](https://github.com/Gopal9621/DSA/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gopal9621/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gopal9621/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gopal9621/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
 | [0665-non-decreasing-array](https://github.com/Gopal9621/DSA/tree/master/0665-non-decreasing-array) |
@@ -115,6 +116,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/Gopal9621/DSA/tree/master/0740-delete-and-earn) |
@@ -165,6 +167,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Gopal9621/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Gopal9621/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 | [0802-find-eventual-safe-states](https://github.com/Gopal9621/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Gopal9621/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
@@ -236,4 +239,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Gopal9621/DSA/tree/master/0207-course-schedule) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
