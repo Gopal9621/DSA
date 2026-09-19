@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gopal9621/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Gopal9621/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Gopal9621/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Gopal9621/DSA/tree/master/0046-permutations) |
@@ -100,6 +101,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Gopal9621/DSA/tree/master/0014-longest-common-prefix) |
 | [0257-binary-tree-paths](https://github.com/Gopal9621/DSA/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Gopal9621/DSA/tree/master/0796-rotate-string) |
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Gopal9621/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
