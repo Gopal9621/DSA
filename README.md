@@ -26,6 +26,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gopal9621/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Gopal9621/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
 ## Greedy
@@ -101,6 +102,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gopal9621/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Gopal9621/DSA/tree/master/0014-longest-common-prefix) |
 | [0257-binary-tree-paths](https://github.com/Gopal9621/DSA/tree/master/0257-binary-tree-paths) |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -118,6 +120,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gopal9621/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -253,4 +256,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gopal9621/DSA/tree/master/0014-longest-common-prefix) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gopal9621/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
