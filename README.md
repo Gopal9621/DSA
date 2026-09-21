@@ -53,6 +53,7 @@
 ## Math
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/Gopal9621/DSA/tree/master/0593-valid-square) |
 ## Geometry
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gopal9621/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
@@ -172,6 +174,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Gopal9621/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Gopal9621/DSA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 | [0802-find-eventual-safe-states](https://github.com/Gopal9621/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Gopal9621/DSA/tree/master/0994-rotting-oranges) |
@@ -247,10 +250,12 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 ## Trie
 |  |
