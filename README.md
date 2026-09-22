@@ -53,6 +53,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Gopal9621/DSA/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/Gopal9621/DSA/tree/master/0593-valid-square) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gopal9621/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0062-unique-paths](https://github.com/Gopal9621/DSA/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
@@ -265,4 +267,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gopal9621/DSA/tree/master/0005-longest-palindromic-substring) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Gopal9621/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
