@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/Gopal9621/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Gopal9621/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Gopal9621/DSA/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Gopal9621/DSA/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Gopal9621/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Gopal9621/DSA/tree/master/0051-n-queens) |
@@ -29,6 +30,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Gopal9621/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Gopal9621/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Gopal9621/DSA/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
@@ -48,6 +50,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Gopal9621/DSA/tree/master/0018-4sum) |
 | [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
 ## Math
