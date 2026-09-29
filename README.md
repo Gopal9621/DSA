@@ -14,6 +14,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gopal9621/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gopal9621/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gopal9621/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
 | [0665-non-decreasing-array](https://github.com/Gopal9621/DSA/tree/master/0665-non-decreasing-array) |
@@ -31,6 +32,7 @@
 | [0011-container-with-most-water](https://github.com/Gopal9621/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gopal9621/DSA/tree/master/0018-4sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +53,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gopal9621/DSA/tree/master/0018-4sum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
 ## Math
@@ -70,6 +73,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gopal9621/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Gopal9621/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Gopal9621/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
@@ -218,6 +222,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gopal9621/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gopal9621/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0740-delete-and-earn](https://github.com/Gopal9621/DSA/tree/master/0740-delete-and-earn) |
 ## Algorithm X
