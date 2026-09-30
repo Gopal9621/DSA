@@ -48,6 +48,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gopal9621/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0146-lru-cache](https://github.com/Gopal9621/DSA/tree/master/0146-lru-cache) |
 ## Sorting
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gopal9621/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0146-lru-cache](https://github.com/Gopal9621/DSA/tree/master/0146-lru-cache) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gopal9621/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0740-delete-and-earn](https://github.com/Gopal9621/DSA/tree/master/0740-delete-and-earn) |
@@ -286,4 +288,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Gopal9621/DSA/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gopal9621/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gopal9621/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
