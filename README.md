@@ -96,6 +96,7 @@
 | [0226-invert-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Gopal9621/DSA/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Gopal9621/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gopal9621/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -113,6 +114,7 @@
 | [0226-invert-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Gopal9621/DSA/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Gopal9621/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gopal9621/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 ## String
 |  |
@@ -179,6 +181,7 @@
 | [0226-invert-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Gopal9621/DSA/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Gopal9621/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0802-find-eventual-safe-states](https://github.com/Gopal9621/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
@@ -193,6 +196,7 @@
 | [0226-invert-binary-tree](https://github.com/Gopal9621/DSA/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/Gopal9621/DSA/tree/master/0404-sum-of-left-leaves) |
 | [0802-find-eventual-safe-states](https://github.com/Gopal9621/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Gopal9621/DSA/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
