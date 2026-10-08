@@ -33,6 +33,7 @@
 | [0011-container-with-most-water](https://github.com/Gopal9621/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gopal9621/DSA/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Gopal9621/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Gopal9621/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
@@ -51,11 +52,13 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gopal9621/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/Gopal9621/DSA/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/Gopal9621/DSA/tree/master/0148-sort-list) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gopal9621/DSA/tree/master/0018-4sum) |
+| [0148-sort-list](https://github.com/Gopal9621/DSA/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
@@ -156,6 +159,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gopal9621/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0148-sort-list](https://github.com/Gopal9621/DSA/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -164,6 +168,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Gopal9621/DSA/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
