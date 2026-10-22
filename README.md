@@ -133,6 +133,7 @@
 | [0336-palindrome-pairs](https://github.com/Gopal9621/DSA/tree/master/0336-palindrome-pairs) |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Gopal9621/DSA/tree/master/0796-rotate-string) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Gopal9621/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [3110-score-of-a-string](https://github.com/Gopal9621/DSA/tree/master/3110-score-of-a-string) |
 ## String Matching
 |  |
@@ -222,6 +223,7 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Gopal9621/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Gopal9621/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Backtracking
 |  |
 | ------- |
@@ -243,6 +245,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gopal9621/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0740-delete-and-earn](https://github.com/Gopal9621/DSA/tree/master/0740-delete-and-earn) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Gopal9621/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Algorithm X
 |  |
 | ------- |
