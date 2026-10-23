@@ -16,6 +16,7 @@
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/Gopal9621/DSA/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Gopal9621/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gopal9621/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
 | [0665-non-decreasing-array](https://github.com/Gopal9621/DSA/tree/master/0665-non-decreasing-array) |
@@ -60,6 +61,7 @@
 | [0018-4sum](https://github.com/Gopal9621/DSA/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/Gopal9621/DSA/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Gopal9621/DSA/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
 ## Math
