@@ -38,6 +38,7 @@
 | [0148-sort-list](https://github.com/Gopal9621/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Gopal9621/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0647-palindromic-substrings](https://github.com/Gopal9621/DSA/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Gopal9621/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Gopal9621/DSA/tree/master/0257-binary-tree-paths) |
 | [0336-palindrome-pairs](https://github.com/Gopal9621/DSA/tree/master/0336-palindrome-pairs) |
+| [0647-palindromic-substrings](https://github.com/Gopal9621/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Gopal9621/DSA/tree/master/0796-rotate-string) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Gopal9621/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -156,6 +158,7 @@
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/Gopal9621/DSA/tree/master/0542-01-matrix) |
+| [0647-palindromic-substrings](https://github.com/Gopal9621/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/Gopal9621/DSA/tree/master/0740-delete-and-earn) |
 ## Stack
