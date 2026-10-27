@@ -76,6 +76,7 @@
 | [0507-perfect-number](https://github.com/Gopal9621/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/Gopal9621/DSA/tree/master/0593-valid-square) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/Gopal9621/DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 ## Geometry
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [0647-palindromic-substrings](https://github.com/Gopal9621/DSA/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/Gopal9621/DSA/tree/master/0740-delete-and-earn) |
+| [2827-number-of-beautiful-integers-in-the-range](https://github.com/Gopal9621/DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 ## Stack
 |  |
 | ------- |
