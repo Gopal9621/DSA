@@ -135,6 +135,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gopal9621/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/Gopal9621/DSA/tree/master/0014-longest-common-prefix) |
+| [0091-decode-ways](https://github.com/Gopal9621/DSA/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/Gopal9621/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Gopal9621/DSA/tree/master/0257-binary-tree-paths) |
 | [0336-palindrome-pairs](https://github.com/Gopal9621/DSA/tree/master/0336-palindrome-pairs) |
@@ -158,6 +159,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gopal9621/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Gopal9621/DSA/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/Gopal9621/DSA/tree/master/0091-decode-ways) |
 | [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
