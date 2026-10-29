@@ -137,6 +137,7 @@
 | [0014-longest-common-prefix](https://github.com/Gopal9621/DSA/tree/master/0014-longest-common-prefix) |
 | [0091-decode-ways](https://github.com/Gopal9621/DSA/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/Gopal9621/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/Gopal9621/DSA/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/Gopal9621/DSA/tree/master/0257-binary-tree-paths) |
 | [0336-palindrome-pairs](https://github.com/Gopal9621/DSA/tree/master/0336-palindrome-pairs) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gopal9621/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -148,6 +149,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Gopal9621/DSA/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/Gopal9621/DSA/tree/master/0796-rotate-string) |
 ## Counting Sort
 |  |
@@ -320,6 +322,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gopal9621/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/Gopal9621/DSA/tree/master/0214-shortest-palindrome) |
 ## Combinatorics
 |  |
 | ------- |
@@ -335,5 +338,18 @@
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Gopal9621/DSA/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/Gopal9621/DSA/tree/master/0336-palindrome-pairs) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Gopal9621/DSA/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Gopal9621/DSA/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Gopal9621/DSA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
