@@ -20,6 +20,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gopal9621/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0542-01-matrix](https://github.com/Gopal9621/DSA/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/Gopal9621/DSA/tree/master/0561-array-partition) |
+| [0648-replace-words](https://github.com/Gopal9621/DSA/tree/master/0648-replace-words) |
 | [0665-non-decreasing-array](https://github.com/Gopal9621/DSA/tree/master/0665-non-decreasing-array) |
 | [0740-delete-and-earn](https://github.com/Gopal9621/DSA/tree/master/0740-delete-and-earn) |
 | [0896-monotonic-array](https://github.com/Gopal9621/DSA/tree/master/0896-monotonic-array) |
@@ -143,6 +144,7 @@
 | [0336-palindrome-pairs](https://github.com/Gopal9621/DSA/tree/master/0336-palindrome-pairs) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gopal9621/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0647-palindromic-substrings](https://github.com/Gopal9621/DSA/tree/master/0647-palindromic-substrings) |
+| [0648-replace-words](https://github.com/Gopal9621/DSA/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Gopal9621/DSA/tree/master/0796-rotate-string) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Gopal9621/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -263,6 +265,7 @@
 | [0336-palindrome-pairs](https://github.com/Gopal9621/DSA/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gopal9621/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0648-replace-words](https://github.com/Gopal9621/DSA/tree/master/0648-replace-words) |
 | [0740-delete-and-earn](https://github.com/Gopal9621/DSA/tree/master/0740-delete-and-earn) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/Gopal9621/DSA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Algorithm X
@@ -320,6 +323,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gopal9621/DSA/tree/master/0014-longest-common-prefix) |
 | [0336-palindrome-pairs](https://github.com/Gopal9621/DSA/tree/master/0336-palindrome-pairs) |
+| [0648-replace-words](https://github.com/Gopal9621/DSA/tree/master/0648-replace-words) |
 ## Manacher
 |  |
 | ------- |
