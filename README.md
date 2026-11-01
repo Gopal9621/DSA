@@ -57,6 +57,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Gopal9621/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0146-lru-cache](https://github.com/Gopal9621/DSA/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Gopal9621/DSA/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/Gopal9621/DSA/tree/master/0328-odd-even-linked-list) |
 ## Sorting
 |  |
 | ------- |
