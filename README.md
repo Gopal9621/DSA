@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gopal9621/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Gopal9621/DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Gopal9621/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Gopal9621/DSA/tree/master/0015-3sum) |
@@ -261,6 +262,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gopal9621/DSA/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gopal9621/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/Gopal9621/DSA/tree/master/0146-lru-cache) |
 | [0336-palindrome-pairs](https://github.com/Gopal9621/DSA/tree/master/0336-palindrome-pairs) |
