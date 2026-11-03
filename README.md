@@ -79,6 +79,7 @@
 | [0507-perfect-number](https://github.com/Gopal9621/DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/Gopal9621/DSA/tree/master/0593-valid-square) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Gopal9621/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2376-count-special-integers](https://github.com/Gopal9621/DSA/tree/master/2376-count-special-integers) |
 | [2827-number-of-beautiful-integers-in-the-range](https://github.com/Gopal9621/DSA/tree/master/2827-number-of-beautiful-integers-in-the-range) |
 ## Geometry
@@ -361,4 +362,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Gopal9621/DSA/tree/master/0214-shortest-palindrome) |
+## Simulation
+|  |
+| ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Gopal9621/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 <!---LeetCode Topics End-->
