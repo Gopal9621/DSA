@@ -72,6 +72,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Gopal9621/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Gopal9621/DSA/tree/master/0062-unique-paths) |
 | [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Gopal9621/DSA/tree/master/0367-valid-perfect-square) |
@@ -285,6 +286,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Gopal9621/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
