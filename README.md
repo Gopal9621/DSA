@@ -14,6 +14,7 @@
 | [0051-n-queens](https://github.com/Gopal9621/DSA/tree/master/0051-n-queens) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gopal9621/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gopal9621/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0204-count-primes](https://github.com/Gopal9621/DSA/tree/master/0204-count-primes) |
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/Gopal9621/DSA/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Gopal9621/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Gopal9621/DSA/tree/master/0062-unique-paths) |
+| [0204-count-primes](https://github.com/Gopal9621/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Gopal9621/DSA/tree/master/0223-rectangle-area) |
 | [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Gopal9621/DSA/tree/master/0367-valid-perfect-square) |
@@ -370,4 +372,24 @@
 |  |
 | ------- |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Gopal9621/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gopal9621/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gopal9621/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gopal9621/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gopal9621/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Gopal9621/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
