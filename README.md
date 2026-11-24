@@ -77,6 +77,7 @@
 | [0062-unique-paths](https://github.com/Gopal9621/DSA/tree/master/0062-unique-paths) |
 | [0204-count-primes](https://github.com/Gopal9621/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Gopal9621/DSA/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/Gopal9621/DSA/tree/master/0224-basic-calculator) |
 | [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Gopal9621/DSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gopal9621/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -148,6 +149,7 @@
 | [0091-decode-ways](https://github.com/Gopal9621/DSA/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/Gopal9621/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Gopal9621/DSA/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Gopal9621/DSA/tree/master/0224-basic-calculator) |
 | [0257-binary-tree-paths](https://github.com/Gopal9621/DSA/tree/master/0257-binary-tree-paths) |
 | [0336-palindrome-pairs](https://github.com/Gopal9621/DSA/tree/master/0336-palindrome-pairs) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gopal9621/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -185,6 +187,7 @@
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Gopal9621/DSA/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/Gopal9621/DSA/tree/master/0678-valid-parenthesis-string) |
 ## Divide and Conquer
 |  |
@@ -291,6 +294,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Gopal9621/DSA/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/Gopal9621/DSA/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
