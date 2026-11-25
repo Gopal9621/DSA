@@ -78,6 +78,7 @@
 | [0204-count-primes](https://github.com/Gopal9621/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Gopal9621/DSA/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Gopal9621/DSA/tree/master/0224-basic-calculator) |
+| [0258-add-digits](https://github.com/Gopal9621/DSA/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Gopal9621/DSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gopal9621/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -375,6 +376,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Gopal9621/DSA/tree/master/0258-add-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Gopal9621/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Enumeration
 |  |
@@ -384,6 +386,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Gopal9621/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Gopal9621/DSA/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
