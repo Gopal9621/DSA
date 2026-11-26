@@ -80,6 +80,7 @@
 | [0204-count-primes](https://github.com/Gopal9621/DSA/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/Gopal9621/DSA/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Gopal9621/DSA/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Gopal9621/DSA/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Gopal9621/DSA/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Gopal9621/DSA/tree/master/0367-valid-perfect-square) |
@@ -178,6 +179,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Gopal9621/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/Gopal9621/DSA/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Gopal9621/DSA/tree/master/0091-decode-ways) |
+| [0233-number-of-digit-one](https://github.com/Gopal9621/DSA/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
@@ -299,6 +301,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Gopal9621/DSA/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/Gopal9621/DSA/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Gopal9621/DSA/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
