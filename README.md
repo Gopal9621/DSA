@@ -82,6 +82,7 @@
 | [0224-basic-calculator](https://github.com/Gopal9621/DSA/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Gopal9621/DSA/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Gopal9621/DSA/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/Gopal9621/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/Gopal9621/DSA/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Gopal9621/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -180,6 +181,7 @@
 | [0062-unique-paths](https://github.com/Gopal9621/DSA/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/Gopal9621/DSA/tree/master/0091-decode-ways) |
 | [0233-number-of-digit-one](https://github.com/Gopal9621/DSA/tree/master/0233-number-of-digit-one) |
+| [0264-ugly-number-ii](https://github.com/Gopal9621/DSA/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Gopal9621/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Gopal9621/DSA/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Gopal9621/DSA/tree/master/0509-fibonacci-number) |
@@ -203,6 +205,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0264-ugly-number-ii](https://github.com/Gopal9621/DSA/tree/master/0264-ugly-number-ii) |
 | [0912-sort-an-array](https://github.com/Gopal9621/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -280,6 +283,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Gopal9621/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/Gopal9621/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Gopal9621/DSA/tree/master/0146-lru-cache) |
+| [0264-ugly-number-ii](https://github.com/Gopal9621/DSA/tree/master/0264-ugly-number-ii) |
 | [0336-palindrome-pairs](https://github.com/Gopal9621/DSA/tree/master/0336-palindrome-pairs) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Gopal9621/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Gopal9621/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
